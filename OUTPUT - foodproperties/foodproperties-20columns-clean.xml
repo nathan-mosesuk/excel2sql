@@ -1,0 +1,482 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook>
+ <DocumentProperties>
+  <Author>NMP</Author>
+  <LastAuthor>NMP</LastAuthor>
+  <Created>2022-02-19T17:28:41Z</Created>
+  <LastSaved>2023-01-12T19:00:56Z</LastSaved>
+  <Company>NMP</Company>
+  <Version>11.9999</Version>
+ </DocumentProperties>
+ <ExcelWorkbook>
+  <WindowHeight>9270</WindowHeight>
+  <WindowWidth>20115</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>45</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ID="Default" Name="Normal">
+   <Alignment Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ID="s21">
+   <Font FontName="Calibri" Family="Swiss" Size="9" Bold="1"/>
+  </Style>
+  <Style ID="s22">
+   <Font FontName="Calibri" Family="Swiss" Size="9" Bold="1"/>
+   <Interior Color="#FFFF00" Pattern="Solid"/>
+  </Style>
+  <Style ID="s23">
+   <Font FontName="Calibri" Family="Swiss" Size="9" Bold="1"/>
+   <Interior Color="#99CC00" Pattern="Solid"/>
+  </Style>
+  <Style ID="s24">
+   <Font FontName="Calibri" Family="Swiss" Size="9" Color="#FF0000"
+    Bold="1"/>
+  </Style>
+  <Style ID="s25">
+   <Font FontName="Calibri" Family="Swiss" Size="9" Color="#FF0000"
+    Bold="1"/>
+   <Interior Color="#99CC00" Pattern="Solid"/>
+  </Style>
+  <Style ID="s26">
+   <Font FontName="Calibri" Family="Swiss" Size="9" Bold="1"/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet Name="Sheet1">
+  <Table ExpandedColumnCount="20" ExpandedRowCount="40" FullColumns="1"
+   FullRows="1" DefaultColumnWidth="60">
+   <Column StyleID="s21" AutoFitWidth="0" Width="114.75"/>
+   <Column StyleID="s21" AutoFitWidth="0" Width="30.75" Span="18"/>
+   <Row>
+    <Cell Index="2" StyleID="s22"><Data Type="String">Potassium mg</Data></Cell>
+    <Cell StyleID="s26"><Data Type="String">%</Data></Cell>
+    <Cell StyleID="s22"><Data Type="String">Vit C mg</Data></Cell>
+    <Cell StyleID="s26"><Data Type="String">%</Data></Cell>
+    <Cell StyleID="s22"><Data Type="String">CARBS GR</Data></Cell>
+    <Cell StyleID="s26"><Data Type="String">%</Data></Cell>
+    <Cell StyleID="s22"><Data Type="String">Vit a </Data></Cell>
+    <Cell StyleID="s26"><Data Type="String">%</Data></Cell>
+    <Cell StyleID="s22"><Data Type="String">magnesium 421mg</Data></Cell>
+    <Cell><Data Type="String">%</Data></Cell>
+    <Cell StyleID="s22"><Data Type="String">Vit b6</Data></Cell>
+    <Cell><Data Type="String">%</Data></Cell>
+    <Cell StyleID="s22"><Data Type="String">fat g</Data></Cell>
+    <Cell><Data Type="String">%</Data></Cell>
+    <Cell StyleID="s22"><Data Type="String">fiber</Data></Cell>
+    <Cell><Data Type="String">%</Data></Cell>
+    <Cell StyleID="s22"><Data Type="String">zinc 11mg RDI</Data></Cell>
+    <Cell><Data Type="String">%</Data></Cell>
+    <Cell StyleID="s22"><Data Type="String">calcium mg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s23"><Data Type="String">BANANA</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">422</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">12</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">17</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">30</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">9</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">28</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">8</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">20</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">grapefruit</Data></Cell>
+    <Cell><Data Type="Number">166</Data></Cell>
+    <Cell><Data Type="Number">4</Data></Cell>
+    <Cell><Data Type="Number">76</Data></Cell>
+    <Cell StyleID="s24"><Data Type="Number">64</Data></Cell>
+    <Cell Index="9"><Data Type="Number">28</Data></Cell>
+    <Cell Index="11"><Data Type="Number">2</Data></Cell>
+    <Cell Index="13"><Data Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s23"><Data Type="String">avocado</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">975</Data></Cell>
+    <Cell StyleID="s25"><Data Type="Number">27</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">33</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">5</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">14</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">25</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">29</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">44</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">13</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">52</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">1.2</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">10</Data></Cell>
+    <Cell StyleID="s23"/>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">pear</Data></Cell>
+    <Cell Index="3"><Data Type="Number">4</Data></Cell>
+    <Cell Index="5"><Data Type="Number">12</Data></Cell>
+    <Cell><Data Type="Number">27</Data></Cell>
+    <Cell Index="16"><Data Type="Number">6</Data></Cell>
+    <Cell><Data Type="Number">24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">strawberry</Data></Cell>
+    <Cell Index="4"><Data Type="Number">7</Data></Cell>
+    <Cell><Data Type="Number">11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">cranberry 1/2cup</Data></Cell>
+    <Cell><Data Type="Number">44</Data></Cell>
+    <Cell Index="4"><Data Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">mandarin</Data></Cell>
+    <Cell><Data Type="Number">146</Data></Cell>
+    <Cell><Data Type="Number">4</Data></Cell>
+    <Cell Index="5"><Data Type="Number">39</Data></Cell>
+    <Cell Index="9"><Data Type="Number">11</Data></Cell>
+    <Cell Index="17"><Data Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s23"><Data Type="String">egg</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">5</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">5</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">5</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">7</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">0.5</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">6</Data></Cell>
+    <Cell StyleID="s23"/>
+   </Row>
+   <Row>
+    <Cell StyleID="s23"><Data Type="String">melon 1/8</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">272</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">7</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s25"><Data Type="Number">62</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s25"><Data Type="Number">69</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">5</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">4</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">0.3</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">3</Data></Cell>
+    <Cell StyleID="s23"/>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">walnut x7</Data></Cell>
+    <Cell Index="11"><Data Type="Number">11</Data></Cell>
+    <Cell Index="13"><Data Type="Number">10</Data></Cell>
+    <Cell><Data Type="Number">18</Data></Cell>
+    <Cell StyleID="s24"><Data Type="Number">27</Data></Cell>
+    <Cell Index="17"><Data Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">carrot</Data></Cell>
+    <Cell Index="3"><Data Type="Number">4</Data></Cell>
+    <Cell Index="5"><Data Type="Number">7</Data></Cell>
+    <Cell Index="9"><Data Type="Number">240</Data></Cell>
+    <Cell Index="13"><Data Type="Number">11</Data></Cell>
+    <Cell Index="17"><Data Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">lemon 1/2 juice</Data></Cell>
+    <Cell Index="5"><Data Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s23"><Data Type="String">lentil cup 100</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">730</Data></Cell>
+    <Cell StyleID="s25"><Data Type="Number">20</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">5</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">17</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">20</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s25"><Data Type="Number">64</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">2</Data></Cell>
+    <Cell StyleID="s25"><Data Type="Number">17</Data></Cell>
+    <Cell StyleID="s23"/>
+   </Row>
+   <Row>
+    <Cell StyleID="s23"><Data Type="String">meat beef 85g</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">300</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">7</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">4</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">15</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">13</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">20</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">5</Data></Cell>
+    <Cell StyleID="s25"><Data Type="Number">50</Data></Cell>
+    <Cell StyleID="s23"><Data Type="Number">800</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">blackberries cup</Data></Cell>
+    <Cell Index="18"><Data Type="Number">0.8</Data></Cell>
+    <Cell><Data Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">pomegranate cup</Data></Cell>
+    <Cell Index="18"><Data Type="Number">0.6</Data></Cell>
+    <Cell><Data Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">raspberries cup</Data></Cell>
+    <Cell Index="18"><Data Type="Number">0.5</Data></Cell>
+    <Cell><Data Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">blueberries cup</Data></Cell>
+    <Cell Index="18"><Data Type="Number">0.2</Data></Cell>
+    <Cell><Data Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">yogurt whole 150g</Data></Cell>
+    <Cell Index="20"><Data Type="Number">150</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">milk whole 100g</Data></Cell>
+    <Cell Index="14"><Data Type="Number">3.3</Data></Cell>
+    <Cell><Data Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">peach</Data></Cell>
+    <Cell Index="3"><Data Type="Number">6</Data></Cell>
+    <Cell Index="5"><Data Type="Number">16</Data></Cell>
+    <Cell Index="9"><Data Type="Number">9</Data></Cell>
+    <Cell Index="11"><Data Type="Number">3</Data></Cell>
+    <Cell Index="16"><Data Type="Number">2.3</Data></Cell>
+    <Cell><Data Type="Number">9</Data></Cell>
+    <Cell Index="19"><Data Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">cashews 30g</Data></Cell>
+    <Cell Index="3"><Data Type="Number">5</Data></Cell>
+    <Cell Index="11" StyleID="s24"><Data Type="Number">20</Data></Cell>
+    <Cell Index="13"><Data Type="Number">5</Data></Cell>
+    <Cell Index="15"><Data Type="Number">18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s23"><Data Type="String">white tuna can 113g</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">8</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">20</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">5</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">5</Data></Cell>
+    <Cell StyleID="s23"/>
+   </Row>
+   <Row>
+    <Cell StyleID="s23"><Data Type="String">bacon x10</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">10</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">7</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s25"><Data Type="Number">35</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">50</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s25"><Data Type="Number">24</Data></Cell>
+    <Cell StyleID="s23"/>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">cheese provolone</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">cheese jack</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">cheese chedar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">olive green</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">potatoes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">sweet potatoes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">SUN 15MIN</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">Ginseng (korean red asian) 1g</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s23"><Data Type="String">mango</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">16</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s25"><Data Type="Number">203</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s25"><Data Type="Number">72</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">8</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">20</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"><Data Type="Number">20</Data></Cell>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+    <Cell StyleID="s23"/>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">NB zinc mag cal VitD x1</Data></Cell>
+    <Cell Index="11"><Data Type="Number">32</Data></Cell>
+    <Cell Index="19"><Data Type="Number">76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">salmon 315g 1 filet</Data></Cell>
+    <Cell Index="3"><Data Type="Number">22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">corn flakes 1/2 cup</Data></Cell>
+    <Cell Index="5"><Data Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">honey oats 1/2 cup</Data></Cell>
+    <Cell Index="3"><Data Type="Number">1</Data></Cell>
+    <Cell Index="11"><Data Type="Number">4</Data></Cell>
+    <Cell Index="13"><Data Type="Number">5</Data></Cell>
+    <Cell Index="19"><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">Nature valley almond bar</Data></Cell>
+    <Cell Index="3"><Data Type="Number">2</Data></Cell>
+    <Cell Index="7"><Data Type="Number">8</Data></Cell>
+    <Cell Index="17"><Data Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data Type="String">ravioli seviroli cheese</Data></Cell>
+    <Cell Index="3"><Data Type="Number">8</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions>
+   <PageSetup>
+    <Header Margin="0"/>
+    <Footer Margin="0"/>
+    <PageMargins Bottom="0.984251969" Left="0.78740157499999996"
+     Right="0.78740157499999996" Top="0.984251969"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>21</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet Name="Sheet2">
+  <Table ExpandedColumnCount="0" ExpandedRowCount="0" FullColumns="1"
+   FullRows="1" DefaultColumnWidth="60"/>
+  <WorksheetOptions>
+   <PageSetup>
+    <Header Margin="0"/>
+    <Footer Margin="0"/>
+    <PageMargins Bottom="0.984251969" Left="0.78740157499999996"
+     Right="0.78740157499999996" Top="0.984251969"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet Name="Sheet3">
+  <Table ExpandedColumnCount="0" ExpandedRowCount="0" FullColumns="1"
+   FullRows="1" DefaultColumnWidth="60"/>
+  <WorksheetOptions>
+   <PageSetup>
+    <Header Margin="0"/>
+    <Footer Margin="0"/>
+    <PageMargins Bottom="0.984251969" Left="0.78740157499999996"
+     Right="0.78740157499999996" Top="0.984251969"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
